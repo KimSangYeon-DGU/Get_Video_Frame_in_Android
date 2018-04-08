@@ -31,7 +31,6 @@ public class MainActivity extends AppCompatActivity {
     private Bitmap bitmap;
     private Thread extractor;
     private ImageView imageView;
-    static private Activity activity;
     final private int FPS = 10;
     final private int MICROSECOND = 1000000;
     final private int RESULT_PERMISSIONS = 1;
